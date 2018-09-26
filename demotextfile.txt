@@ -1,0 +1,20 @@
+sample document to test git hub
+
+
+git -- version
+cd /E
+cd gitlocal
+created file in THIS LOCATION
+
+ git config --global user.name "venkataramanaboddepalli"
+
+
+ git config --global user.email venky13ramana@gmail.com
+
+git clone https://github.com/VenkatRamanaBoddepalli/sample.git
+
+
+cd sample
+
+
+  
