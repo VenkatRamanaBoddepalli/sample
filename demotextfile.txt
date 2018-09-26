@@ -23,6 +23,8 @@ ls
 
 git add demotextfile.txt
 
+
+git log
 git status
 
 
@@ -32,6 +34,11 @@ git status
 
 git push -u origin master
 
+git commit -m "second commit for this file" demotextfile.txt
+
+git status
+
+git push -u origin master
 
 
 
